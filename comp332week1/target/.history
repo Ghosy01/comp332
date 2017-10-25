@@ -1,0 +1,18 @@
+compile
+run
+run 5
+4
+run
+4
+run 4
+compile
+4
+run 5
+clear
+run 5
+test
+run 1
+run 4
+test
+compile
+test

@@ -1,0 +1,224 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes
+compile options:
+6 items
+0 -> -deprecation
+1 -> -feature
+2 -> -unchecked
+3 -> -Xcheckinit
+4 -> -Xfatal-warnings
+5 -> -Xlint:-stars-align,_
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\Main$.class
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\Main.class
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\BinaryTrees$.class
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\BinaryTrees$Fork$.class
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\BinaryTrees$Fork.class
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\BinaryTrees$Leaf$.class
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\BinaryTrees$Leaf.class
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\BinaryTrees$Tree.class
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\BinaryTrees.class
+binary dependencies:
+4 items
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> C:\Program Files\Java\jre1.8.0_144\lib\rt.jar
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> C:\Users\PC User\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> C:\Program Files\Java\jre1.8.0_144\lib\rt.jar
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> C:\Users\PC User\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> Main
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> Main$
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> BinaryTrees
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> BinaryTrees$
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> BinaryTrees$Fork
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> BinaryTrees$Fork$
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> BinaryTrees$Leaf
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> BinaryTrees$Leaf$
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> BinaryTrees$Tree
+used names:
+108 items
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> !=
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> +
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> <init>
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> ==
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> >
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> Any
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> AnyRef
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> Array
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> ArrayOps
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> BinaryTrees
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> Boolean
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> Fork
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> Int
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> Leaf
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> Main
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> Nothing
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> Object
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> Predef
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> String
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> StringOps
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> T
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> Tree
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> Unit
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> apply
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> args
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> augmentString
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> count
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> levels
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> makefork
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> ofRef
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> println
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> refArrayOps
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> scala
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> size
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> t
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> toInt
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> while$1
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> &&
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> +
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> ++
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> <init>
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> <repeated>
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> ==
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> A
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> AbstractFunction1
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> AbstractFunction2
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Any
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> AnyRef
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> B
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> BinaryTrees
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Boolean
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> CanBuildFrom
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Coll
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Fork
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> GenTraversableOnce
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> IndexOutOfBoundsException
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Int
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Iterator
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Leaf
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> List
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> MatchError
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> None
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Nothing
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Object
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Option
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Predef
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Product
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> ScalaRunTime
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Serializable
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Some
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Statics
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> String
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> T
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> T0
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> T1
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> T2
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> That
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Tree
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> Tuple2
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> _hashCode
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> _root_
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> _toString
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> apply
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> asInstanceOf
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> canBuildFrom
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> collection
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> eq
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> finalizeHash
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> immutable
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> incandswap
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> isInstanceOf
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> l
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> leaves
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> left
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> mix
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> numleaves
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> package
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> r
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> right
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> runtime
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> scala
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> sumleaves
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> t
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> toString
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> typedProductIterator
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> v
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> value
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> ||
+product stamps:
+9 items
+C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\BinaryTrees$.class -> lastModified(1508843935344)
+C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\BinaryTrees$Fork$.class -> lastModified(1508843935351)
+C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\BinaryTrees$Fork.class -> lastModified(1508843935350)
+C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\BinaryTrees$Leaf$.class -> lastModified(1508843935348)
+C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\BinaryTrees$Leaf.class -> lastModified(1508843935347)
+C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\BinaryTrees$Tree.class -> lastModified(1508843935346)
+C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\BinaryTrees.class -> lastModified(1508843935335)
+C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\Main$.class -> lastModified(1508674867475)
+C:\Users\PC User\Documents\repositories\comp332week1\target\scala-2.12\classes\Main.class -> lastModified(1508674867466)
+source stamps:
+2 items
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> hash(18206dca013761ed4210c93a8c34718eeef0fb22)
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> hash(4c4262fdbc19f54c0806f3528bac24f3ed1e6089)
+binary stamps:
+2 items
+C:\Program Files\Java\jre1.8.0_144\lib\rt.jar -> lastModified(1504758380239)
+C:\Users\PC User\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+2 items
+C:\Program Files\Java\jre1.8.0_144\lib\rt.jar -> java.lang.Object
+C:\Users\PC User\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> scala.runtime.AbstractFunction1
+internal apis:
+2 items
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwKIT4QQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw9uPFBnQABm5vdGlmeXNxAH4ADE5NRxt0AAR3YWl0c3EAfgAMYEojJnQADSRhc0luc3RhbmNlT2ZzcQB+AAw9e3vqdAAIbWFrZWZvcmtzcQB+AAyiAuv3dAAGZXF1YWxzc3EAfgAMi3ctCHQADGFzSW5zdGFuY2VPZnNxAH4ADEgm0ih0AAxzeW5jaHJvbml6ZWRzcQB+AAwS+s2ndAANJGlzSW5zdGFuY2VPZnNxAH4ADCByHox0AARtYWluc3EAfgAMXSrs83QACW5vdGlmeUFsbHNxAH4ADKiHcll0AAxpc0luc3RhbmNlT2ZzcQB+AAxFQDFhdAACPT1zcQB+AAwx2KWWdAAFY2xvbmVzcQB+AAyapFTpdAAETWFpbnNxAH4ADCnaold0AAh0b1N0cmluZ3NxAH4ADCjdrE10AAIhPXNxAH4ADPaO9rp0AAhnZXRDbGFzc3NxAH4ADNNLRrB0AAJuZXNxAH4ADP/Rprx0AAJlcXNxAH4ADHWHvIJ0AAIjI3NxAH4ADAzrfp90AAhmaW5hbGl6ZXNxAH4ADNTwSkd0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AKXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBDTAAJaW5oZXJpdGVkcQB+AENMAAdwYXJlbnRzcQB+AEN4cQB+AF9zcQB+AFp1cQB+AD4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AERxAH4ATXVxAH4ATgAAAABzcQB+AFAAcQB+AB91cQB+AFIAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHp1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBneHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBVdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBuWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBec3EAfgBtdAAFQXJyYXlxAH4Ac3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBtdAAGU3RyaW5nc3EAfgBxc3EAfgB0dXEAfgB3AAAAA3NxAH4AeXQABGphdmFzcQB+AHl0AARsYW5ncQB+AH5zcQB+AFp1cQB+AD4AAAAAc3EAfgBadXEAfgCSAAAAAnNxAH4AbXQABk9iamVjdHEAfgCWc3EAfgBtdAADQW55cQB+AHN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX0QHe3d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABOQzpcVXNlcnNcUEMgVXNlclxEb2N1bWVudHNccmVwb3NpdG9yaWVzXGNvbXAzMzJ3ZWVrMVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUGCBtygE3Ye1CEMk6jDRxju7w+yI=
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwUkuo5AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAuc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwvE1ZzHQACW51bWxlYXZlc3NxAH4ADNjJY8l0AAZub3RpZnlzcQB+AAwfxaJ+dAAHdW5hcHBseXNxAH4ADBJkYRx0AAdjdXJyaWVkc3EAfgAMsuJjt3QABHdhaXRzcQB+AAyO1/YhdAAGbGVhdmVzc3EAfgAMXVOn+nQADmNvcHkkZGVmYXVsdCQyc3EAfgAMDUEz2XQADSRhc0luc3RhbmNlT2ZzcQB+AAwZWGOwdAAHY29tcG9zZXNxAH4ADIIhNJV0AAlzdW1sZWF2ZXNzcQB+AAzVLPzzdAAMcHJvZHVjdEFyaXR5c3EAfgAM0iUpgHQABmVxdWFsc3NxAH4ADHGl83x0AAxhc0luc3RhbmNlT2ZzcQB+AAzm9sRQdAAMc3luY2hyb25pemVkc3EAfgAMmeYRtXQABGxlZnRzcQB+AAwvStpidAAEVHJlZXNxAH4ADFDlHrd0AA0kaXNJbnN0YW5jZU9mc3EAfgAMVC6CyHQAB2FuZFRoZW5zcQB+AAw0L5LEdAAGdHVwbGVkc3EAfgAM0NOwM3QACGNhbkVxdWFsc3EAfgAMSQKNT3QABExlYWZzcQB+AAyvasuOdAANcHJvZHVjdFByZWZpeHNxAH4ADPLT9Rd0AAlub3RpZnlBbGxzcQB+AAyKAHWWdAAMaXNJbnN0YW5jZU9mc3EAfgAMLRhA33QACmluY2FuZHN3YXBzcQB+AAwvM7drdAAGPGluaXQ+c3EAfgAMfplbxHQABWFwcGx5c3EAfgAMjiqG8nQAAj09c3EAfgAM1RIEMnQABWNsb25lc3EAfgAMuyfTRHQABiRpbml0JHNxAH4ADF+RycN0AARjb3B5c3EAfgAM5cnJlHQACHRvU3RyaW5nc3EAfgAM2yG2tnQAAiE9c3EAfgAMb8Gol3QACGdldENsYXNzc3EAfgAMNr0KLHQADmNvcHkkZGVmYXVsdCQxc3EAfgAM05aOQnQAC0JpbmFyeVRyZWVzc3EAfgAMZqjBhnQABEZvcmtzcQB+AAwZrqKWdAACbmVzcQB+AAy/a6VHdAAFdmFsdWVzcQB+AAwEc+u1dAACZXFzcQB+AAxH8h/idAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMq0irk3QABXJpZ2h0c3EAfgAM2+1DknQAAiMjc3EAfgAMAhl+SHQACGZpbmFsaXplc3EAfgAM2rILd3QADnByb2R1Y3RFbGVtZW50c3EAfgAMnn6u3nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ac3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgBVdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCKc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHNMAAlpbmhlcml0ZWRxAH4Ac0wAB3BhcmVudHNxAH4Ac3hxAH4Aj3NxAH4AinVxAH4AbgAAAABzcQB+AIp1cQB+AG4AAAAAc3EAfgCKdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCOdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCOc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCndAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCoc3EAfgCbdAADQW55c3EAfgCfc3EAfgCidXEAfgClAAAAAnNxAH4Ap3QABXNjYWxhcQB+AK51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX04bUD91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABOQzpcVXNlcnNcUEMgVXNlclxEb2N1bWVudHNccmVwb3NpdG9yaWVzXGNvbXAzMzJ3ZWVrMVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUTEJi/bwZ9UwIBvNSi6wk8+0eYIk=
+external apis:
+0 items
+source infos:
+2 items
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Main.scala -> 
+AAAAAAAAAAA=
+C:\Users\PC User\Documents\repositories\comp332week1\src\main\scala\Tree.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX0QHe3d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATkM6XFVzZXJzXFBDIFVzZXJcRG9jdW1lbnRzXHJlcG9zaXRvcmllc1xjb21wMzMyd2VlazFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX0kVObt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATkM6XFVzZXJzXFBDIFVzZXJcRG9jdW1lbnRzXHJlcG9zaXRvcmllc1xjb21wMzMyd2VlazFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX04YrDV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATkM6XFVzZXJzXFBDIFVzZXJcRG9jdW1lbnRzXHJlcG9zaXRvcmllc1xjb21wMzMyd2VlazFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX04bUD91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATkM6XFVzZXJzXFBDIFVzZXJcRG9jdW1lbnRzXHJlcG9zaXRvcmllc1xjb21wMzMyd2VlazFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=

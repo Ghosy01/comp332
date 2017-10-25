@@ -1,0 +1,37 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(C:\Users\PC User\Documents\repositories\comp332week2\src\main\scala\exp\ExpTree.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\PC User\Documents\repositories\comp332week2\src\main\scala\exp\ExpTree.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\PC User\Documents\repositories\comp332week2\src\main\scala\exp\ExpTree.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\PC User\Documents\repositories\comp332week2\src\main\scala\exp\ExpTree.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\Users\PC User\Documents\repositories\comp332week2\target\scala-2.12\classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.2[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 2f42db3e, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-feature[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-Xcheckinit[0m
+[0m[[0mdebug[0m] [0m	-Xfatal-warnings[0m
+[0m[[0mdebug[0m] [0m	-Xlint:-stars-align,_[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_144\lib\resources.jar;C:\Program Files\Java\jre1.8.0_144\lib\rt.jar;C:\Program Files\Java\jre1.8.0_144\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_144\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_144\lib\jce.jar;C:\Program Files\Java\jre1.8.0_144\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_144\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_144\classes;C:\Users\PC User\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\PC User\Documents\repositories\comp332week2\target\scala-2.12\classes;C:\Users\PC User\.ivy2\cache\org.bitbucket.inkytonik.kiama\kiama_2.12\jars\kiama_2.12-2.1.0.jar;C:\Users\PC User\.ivy2\cache\com.google.code.findbugs\jsr305\jars\jsr305-3.0.2.jar;C:\Users\PC User\.ivy2\cache\com.google.guava\guava\bundles\guava-21.0.jar;C:\Users\PC User\.ivy2\cache\org.bitbucket.inkytonik.dsinfo\dsinfo_2.12\jars\dsinfo_2.12-0.4.0.jar;C:\Users\PC User\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.12.2.jar;C:\Users\PC User\.ivy2\cache\org.bitbucket.inkytonik.dsprofile\dsprofile_2.12\jars\dsprofile_2.12-0.4.0.jar;C:\Users\PC User\.ivy2\cache\org.rogach\scallop_2.12\jars\scallop_2.12-2.1.1.jar;C:\Users\PC User\.ivy2\cache\jline\jline\jars\jline-2.14.3.jar[0m
+[0m[[31merror[0m] [0mC:\Users\PC User\Documents\repositories\comp332week2\src\main\scala\exp\ExpTree.scala:77: case classes must have a parameter list; try 'case class IfStmt()' or 'case object IfStmt'[0m
+[0m[[31merror[0m] [0m	case class IfStmt dsds (cond : Expression, stmts : Vector [Statement]) extends Statement[0m
+[0m[[31merror[0m] [0m	                  ^[0m
+[0m[[31merror[0m] [0mone error found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m

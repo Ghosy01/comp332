@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[32mTreeTests:[0m[0m
+[0m[[0minfo[0m] [0m[32m- a single leaf tree has just one leaf[0m[0m
+[0m[[0minfo[0m] [0m[32m- a one-level tree has two leaves[0m[0m
+[0m[[0minfo[0m] [0m[32m- a more complex tree has the correct number of leaves[0m[0m
+[0m[[0minfo[0m] [0m[32m- a single leaf tree has just that leaf[0m[0m
+[0m[[0minfo[0m] [0m[32m- a one-level tree has its two leaves[0m[0m
+[0m[[0minfo[0m] [0m[32m- a more complex tree has the correct leaves[0m[0m
+[0m[[0minfo[0m] [0m[32m- the sum of a single leaf tree is the value of the leaf[0m[0m
+[0m[[0minfo[0m] [0m[32m- the sum of a one-level tree is the sum of the two leaves[0m[0m
+[0m[[0minfo[0m] [0m[32m- the sum of a mutli-level tree is the sum of its leaves[0m[0m
+[0m[[0minfo[0m] [0m[32m- the incandswap of a leaf tree is just the leaf tree incremented[0m[0m
+[0m[[0minfo[0m] [0m[32m- the incandswap of a one-level tree is inc and swap of those leaves[0m[0m
+[0m[[0minfo[0m] [0m[32m- the incandswap of a mutli-level tree is as expectResulted[0m[0m
