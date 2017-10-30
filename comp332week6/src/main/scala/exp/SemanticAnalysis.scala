@@ -27,6 +27,19 @@ class SemanticAnalysis (tree : ExpTree) extends Attribution {
 
             case u @ IdnUse (i) if entity (u) == UnknownEntity () =>
                 message (u, i + " is not declared")
+				
+		    case ConstDecl (i, e) if (!isconst (e)) =>
+                message (e, "initialising expression is not constant")
+			
+			 case SetStmt (IdnExp (n @ IdnUse (i)), _) =>
+                entity (n) match {
+                    case Constant (_) =>
+                        message (n, i + " is not variable, so cannot be set")
+                    case _ =>
+                        // Ok
+                        Vector ()
+                }        
+			
         })
 
     /**

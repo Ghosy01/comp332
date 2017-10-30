@@ -26,11 +26,14 @@ class SyntaxAnalysis (positions : Positions) extends Parsers (positions) {
     lazy val statement : PackratParser[Statement] =
         ("set" ~> ident) ~ ("=" ~> expression) ^^
             { case i ~ e => SetStmt (IdnExp (i), e) } |
-        expression ^^ ExpStmt
+		("if" ~> "(" ~> expression <~ ")") ~ ("{" ~> (statement+) <~ "}" ) ^^
+			{ case e ~ ss => IfStmt(e,ss) } |
+			expression ^^ ExpStmt
 
     lazy val expression : PackratParser[Expression] =
         expression ~ ("+" ~> term) ^^ { case e ~ t => PlusExp (e, t) } |
         expression ~ ("-" ~> term) ^^ { case e ~ t => MinusExp (e, t) } |
+		//expression ~ ("#" ~> term) ^^ { case e ~ t => AndExp (e,t)} |
         term
 
     lazy val term : PackratParser[Expression] =

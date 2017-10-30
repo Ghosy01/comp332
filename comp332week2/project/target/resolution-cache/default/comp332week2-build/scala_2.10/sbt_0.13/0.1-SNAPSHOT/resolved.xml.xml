@@ -4,7 +4,7 @@
 		module="comp332week2-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20171025014407"
+		publication="20171026021809"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

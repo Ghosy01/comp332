@@ -14,12 +14,17 @@ import org.bitbucket.inkytonik.kiama.util.Environments
  */
 object SymbolTable extends Environments {
 
-    // import ExpTree._
+    import ExpTree._
     import org.bitbucket.inkytonik.kiama.util.Entity
 
     /**
      * A variable entity.
+	 
      */
-    case class Variable () extends Entity
+	 
+	case class Variable() extends Entity
+	 
+    case class Constant (exp : Expression) extends Entity
+
 
 }

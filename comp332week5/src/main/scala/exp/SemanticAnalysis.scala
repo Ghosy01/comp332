@@ -18,8 +18,13 @@ class SemanticAnalysis (tree : ExpTree) extends Attribution {
      */
     val isconst : Expression => Boolean =
         attr {
-            case _ => true
-        }
+            case IdnExp (i)      => false
+            case IntExp (n)      => true
+            case MinusExp (l, r) => isconst (l) && isconst (r)
+            case PlusExp (l, r)  => isconst (l) && isconst (r)
+            case StarExp (l, r)  => isconst (l) && isconst (r)
+            case SlashExp (l, r) => isconst (l) && isconst (r)
+			}
 
     /**
      * What is the value of an expression?  Only needs to be valid if the
@@ -27,7 +32,12 @@ class SemanticAnalysis (tree : ExpTree) extends Attribution {
      */
     val expvalue : Expression => Int =
         attr {
-            case _ => 0
+              case IdnExp (i)      => 0   // undefined
+            case IntExp (n)      => n
+            case MinusExp (l, r) => expvalue (l) - expvalue (r)
+            case PlusExp (l, r)  => expvalue (l) + expvalue (r)
+            case StarExp (l, r)  => expvalue (l) * expvalue (r)
+            case SlashExp (l, r) => expvalue (l) / expvalue (r)
         }
 
 }

@@ -1,0 +1,3 @@
+run src/test/resources/constant.exp
+compile
+run src/test/resources/constant.exp

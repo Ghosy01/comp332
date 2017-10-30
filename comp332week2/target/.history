@@ -2,3 +2,12 @@ run src/test/resources/input.exp
 test
 run src/test/resources/input.exp
 test
+run tets
+run
+test
+run
+run input.exp
+compile
+run /src/test/resources/input.exp
+run src/test/resources/input.exp
+compile

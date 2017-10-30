@@ -4,7 +4,7 @@
   <AutoRefreshRemotes>true</AutoRefreshRemotes>
   <DraftCommitMsg />
   <IncomingSavedCount>0</IncomingSavedCount>
-  <LastCheckedRemotes>0001-01-01T00:00:00</LastCheckedRemotes>
+  <LastCheckedRemotes>2017-10-28T22:59:36.086462+11:00</LastCheckedRemotes>
   <LastUsedView>Log</LastUsedView>
   <LogBranchFilterIndex>0</LogBranchFilterIndex>
   <OutgoingSavedCount>0</OutgoingSavedCount>
@@ -17,10 +17,7 @@
       <Username>juniormitac@hotmail.com</Username>
     </RepositoryRemoteProjectLink>
   </RemoteProjectLinks>
-  <SidebarExpandedItems>
-    <string>File Status</string>
-    <string>Branches</string>
-  </SidebarExpandedItems>
+  <SidebarExpandedItems />
   <SidebarWidth>210</SidebarWidth>
   <SubtreeLinks />
 </RepositoryCustomSettings>

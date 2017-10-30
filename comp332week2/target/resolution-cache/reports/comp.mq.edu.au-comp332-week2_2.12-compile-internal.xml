@@ -7,7 +7,7 @@
 		revision="0.2"
 		conf="compile-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20171025014435"/>
+		date="20171026021822"/>
 	<dependencies>
 		<module organisation="org.bitbucket.inkytonik.kiama" name="kiama_2.12">
 			<revision name="2.1.0" status="release" pubdate="20170619130557" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://bitbucket.org/inkytonik/kiama" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
