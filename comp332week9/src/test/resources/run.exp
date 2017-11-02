@@ -1,0 +1,22 @@
+decl i : integer
+decl j : integer
+
+42
+7 - 5
+
+set i = 10
+i
+i * 2
+3 + i - 4
+
+set j = 20
+i + j
+j / 2
+
+decl x : integer
+decl y : integer
+
+set x = 3
+set y = 4
+set x = y + x * 2
+x

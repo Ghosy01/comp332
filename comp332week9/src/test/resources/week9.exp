@@ -1,0 +1,7 @@
+decl x : integer
+decl y : integer
+decl z : integer
+set x = 3
+set y = 4
+set z = x + 2 * y - 3
+z
