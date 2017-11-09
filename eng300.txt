@@ -1,0 +1,26 @@
+introduction :
+
+executive summary project proposal
+
+problem :  safety solution
+
+one solution that emcompassses from every team menber
+
+explain how solution work
+
+
+requirements
+
+design include problem decomposition (identify different parts of solution)\
+
+present the solution one cohesive statement block diagram
+
+ ^^ flow chrat or maths if any
+ 
+ manufacturing cost and deployment risk benefits
+ 
+ gant chart ( entire project)
+
+ conclusion
+ 
+ references 
